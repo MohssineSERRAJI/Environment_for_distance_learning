@@ -1,1 +1,1 @@
-# Wrapkit-Angular-Blog
+# Environment for distance learning
